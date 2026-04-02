@@ -1,3 +1,3 @@
 # Hi! Im Zen
 
-![Zen Binary Portrait](zen_binary.png)
+![Zen Binary Portrait](./zen_binary.jpg)
